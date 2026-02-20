@@ -1,6 +1,6 @@
-####Netflix SQL Analytics Project
+#### Netflix SQL Analytics Project
 
-###Project Summary
+### Project Summary
 
 This project demonstrates advanced SQL skills by transforming raw Netflix data into a fully normalized relational database and performing business-driven analytics.
 
